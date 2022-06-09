@@ -1,0 +1,7 @@
+data/
+*.pdf
+*.jpg
+*.png
+notas.txt
+__pycache__/
+*.csv
